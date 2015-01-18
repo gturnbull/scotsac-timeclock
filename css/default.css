@@ -112,7 +112,7 @@
 	text-decoration: none;
 }
 
-a.header_icontext:link, a.header_icontext:hover, a.header_icontext:active {
+a.header_icontext:link, a.header_icontext:visited, a.header_icontext:hover, a.header_icontext:active {
 	color: #000000;
 	font-family: Tahoma;
 	font-size: 10pt;
